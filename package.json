@@ -1,0 +1,25 @@
+{
+  "name": "ppt-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xebec19/studious-waffle.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Xebec19/studious-waffle/issues"
+  },
+  "homepage": "https://github.com/Xebec19/studious-waffle#readme",
+  "dependencies": {
+    "pptxgenjs": "^3.9.0"
+  }
+}
